@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_username">Tài Khoản</string>
+    <string name="hint_password">Mật Khẩu</string>
+    <string name="hint_name">Tài Khoản</string>
+    <string name="hint_send">Gửi</string>
+    <string name="hint_sms">Tin nhắn</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="btn_register">ĐĂNG KÝ</string>
+    <string name="btn_link_to_register">KHÔNG CÓ TÀI KHOẢN. MỜI ĐĂNG KÝ</string>
+    <string name="btn_link_to_login">Đã đăng ký. Đăng nhập</string>
+    <string name="welcome">Chào Mừng</string>
+    <string name="btn_logout">Thoát</string>
+    <string name="name">Tên đầy đủ</string>
+    <string name="hint_enter_friend">Mời nhập tên bạn bè</string>
+    <string name="text_add">Thêm</string>
+
+    <string name="menu_add">Thêm</string>
+    <string name="menu_edit">Sửa</string>
+    <string name="menu_delete">Xóa</string>
+
+    <string-array name="menu">
+        <item>Chỉnh Sửa</item>
+        <item>Xóa</item>
+    </string-array>
+</resources>
